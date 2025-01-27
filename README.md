@@ -12,4 +12,5 @@
 <p>come check out my <a href="https://www.linkedin.com/in/briguz4590/">LinkedIn</a>!</p>
 <p><em>all other ways of contact (email, phone number) will be given out through linkedin only</em></p>
 
-anyways, here's a kawaii face: ヽ(^◇^*)/
+anyways, here's a meme i made:
+<img src "./exercises/cssProject2/index.html">
