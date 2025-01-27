@@ -13,4 +13,4 @@
 <p><em>all other ways of contact (email, phone number) will be given out through linkedin only</em></p>
 
 anyways, here's a meme i made:
-<img src "./exercises/cssProject2/index.html">
+<img src "./exercises/cssProject2/index.html" />
