@@ -12,5 +12,6 @@
 <p>come check out my <a href="https://www.linkedin.com/in/briguz4590/">LinkedIn</a>!</p>
 <p><em>all other ways of contact (email, phone number) will be given out through linkedin only</em></p>
 
-anyways, here's a meme i made:
-<img src "./exercises/cssProject2/index.html" />
+anyways, here's a meme i like a lot:
+
+<img src="https://i.pinimg.com/736x/96/59/3b/96593b9baa10020e25c457e9614eb5ea.jpg" />
