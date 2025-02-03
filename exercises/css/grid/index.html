@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mondrian Project</title>
+  <style>
+    /* 
+    originally a mondrian-style work but i want kirby colors
+    done on 03 feb 2025 by brianna guzman
+    */
+
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+    
+    .container {
+      height: 748px;
+      width: 748px;
+      display: grid;
+      background-color: black;
+      grid-template-columns: 320px 198px 153px 50px;
+      grid-template-rows: 414px 130px 155px 22px;
+      gap: 9px;
+    }
+
+    .big-red {
+      background-color: #d74894;
+    }
+
+    .white-right-to-red {
+      background-color: #F0F1EC;
+      grid-column: span 3;
+    }
+
+    .white-under-red {
+      background-color: #F0F1EC;
+      grid-row: span 2;
+    }
+
+    .white-left-to-blue {
+      background-color: #F0F1EC;
+      grid-area: 2/2/4/4
+    }
+
+    .blue {
+      background-color: #df6da9;
+      border-bottom: 10px solid #000;
+    }
+
+    .white-under-blue {
+      background-color: #F0F1EC;
+      grid-row: span 2;
+    }
+
+    .yellow {
+      background-color: #e791bf;
+    }
+
+    .solid-black {
+      background-color: #232629;
+    }
+
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <div class="big-red"></div>
+    <div class="white-right-to-red"></div>
+    <div class="white-under-red"></div>
+
+    <div class="white-left-to-blue"></div>
+    <div class="blue"></div>
+    <div class="white-under-blue"></div>
+    
+    <div class="bottom-left-white"></div>
+    <div class="yellow"></div>
+    <div class="solid-black"></div>
+  </div>
+</body>
+
+</html>
