@@ -4,8 +4,7 @@
 <p>i'll be sure to update this page as i go, but for now, take a look at some fun stuff i've done~:</p>
 <ul>
     <li>check out my <a href="https://github.com/thegooz45/full-stack-course/tree/main/exercises">the work</a> i've done so far for the full-stack course</li>
-    <li>or maybe you're curious about my <a href="https://github.com/thegooz45/qa-work">QA stuff</a>?</li>
-    <li>and maybe you're more curious about my <a href="https://github.com/thegooz45/jupyter-notebooks">data science work</a></li>
+    <li>or maybe you're more curious about my <a href="https://github.com/thegooz45/jupyter-notebooks">AI/ML work</a>?</li>
 </ul>
 
 <h3>some other ways to find me</h3>
